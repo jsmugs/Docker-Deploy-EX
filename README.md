@@ -1,4 +1,4 @@
-# Docker-Deploy-EX
+# Docker-Deploy-Example
 
 Commands:
 
